@@ -1,3 +1,5 @@
 print("Hello world")
 
-a = 5;
+a = 5
+
+print("Variable is :",a)
