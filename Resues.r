@@ -6,3 +6,6 @@ hours_worked <- 40
 # Calculate total pay
 total_pay <- hourly_rate * hours_worked
 print(total_pay) # Outputs: 1820
+
+
+modufued
