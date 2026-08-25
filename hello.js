@@ -7,3 +7,5 @@ function voider(evente){
 }
 
 console.log("print");
+
+console.log("Printed")
